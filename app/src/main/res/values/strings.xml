@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_setting">Settings</string>
+    <string name="name_movie">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+
+    <dimen name="movie_title_padding">10sp</dimen>
+    <dimen name="movie_title">15sp</dimen>
+    <dimen name="movie_cover_height">10sp</dimen>
+    <dimen name="card_movie_radius">0sp</dimen>
+    <dimen name="card_margin">5sp</dimen>
+    <dimen name="user_rating_padding_button">5sp</dimen>
+    <dimen name="user_rating">12sp</dimen>
+    <dimen name="detail_backdrop_height">500sp</dimen>
+    <dimen name="layout_margin_left">10sp</dimen>
+    <dimen name="layout_margin_top">3sp</dimen>
+    <dimen name="layout_margin_top2">10sp</dimen>
+    <dimen name="padding_layout">16sp</dimen>
+</resources>
